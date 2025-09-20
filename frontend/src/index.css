@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-link {
+  border-bottom: 2px solid #14B8A6; /* teal underline */
+  color: #14B8A6; /* change color when active */
+}
